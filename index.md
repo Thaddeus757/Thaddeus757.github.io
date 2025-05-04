@@ -12,9 +12,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Thaddeus Boyd Jr
 
-Welcome to my digtial portfolio of all my Cybersecurity/IT projects. This is my showcase of my skills and hands on experience. Thank you for consideration 
+Welcome to my digtial portfolio of all my Cybersecurity/IT projects. This is my showcase of my skills and hands on experience. Thank you for consideration! 
 
-## Header 2
+# Virtual Machine Threat Lab
+
+In this project I used a Windows 10 Virtual Machine to setup a simple Honeypot with a catch. Every attacker, every threat is traced back in high detail.
 
 > This is a blockquote following a header.
 >
