@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Thaddeus Boyd Jr
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Welcome to my digtial portfolio of all my Cybersecurity/IT projects. This is my showcase of my skills and hands on experience. Thank you for consideration 
 
 ## Header 2
 
