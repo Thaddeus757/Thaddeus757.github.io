@@ -18,11 +18,13 @@ Welcome to my digtial portfolio of all my Cybersecurity/IT projects. This is my 
 
 In this project I used a Windows 10 Virtual Machine to setup a simple Honeypot with a catch. Every attacker, every threat is traced back in high detail.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Languages and Utilities Used
+* Powershell
+* Microsoft Azure
+## Enviroments Used
+* Windows 10 Virual Machine
+## Making of the Honeypot
 
-### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
