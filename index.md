@@ -25,6 +25,9 @@ In this project I used a Windows 10 Virtual Machine to setup a simple Honeypot w
 * Windows 10 Virual Machine
 ## Making of the Honeypot
 
+Right here am using Microsoft Azure to make the VM for the Honeypot. Can always change the settings if needed.
+![Threatlab1](https://github.com/Thaddeus757/Thaddeus757.github.io/blob/main/threatlab1.png)
+
 
 ```js
 // Javascript code with syntax highlighting.
